@@ -1,8 +1,12 @@
-package pranoy.uni.project.model;
+package pranoy.uni.project;
 
 import pranoy.uni.project.archive.ArchiveRepositoryImpl;
 import pranoy.uni.project.archive.ArchiveableContent;
 import pranoy.uni.project.content.ContentManagerImpl;
+import pranoy.uni.project.model.Advertisement;
+import pranoy.uni.project.model.Magazine;
+import pranoy.uni.project.model.Photographs;
+import pranoy.uni.project.model.Stories;
 
 import java.util.List;
 import java.util.Scanner;
